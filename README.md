@@ -14,17 +14,28 @@ This project analyzes humanitarian survey data collected across multiple global 
 
 ### Data Dictionary
 Column	Description
-Submission Date -	When the survey response was submitted
-Region - Geographic region of the respondent (e.g., West Africa, South Asia)
-Survey Type - Focus area of the survey (Health, Education, Shelter, etc.)
-Respondent ID - Unique identifier for each participant
-Gender - Male, Female, or Other
-Age Group - Grouped age ranges (e.g., 18–24, 25–34, etc.)
-Q1 - Access to basic health services
-Q2 - Household food security
-Q3 - Children’s ability to attend school safely
-Q4 - Sense of safety in shelter
-Q5 - Access to clean water
+
+- Submission Date -	When the survey response was submitted
+  
+- Region - Geographic region of the respondent (e.g., West Africa, South Asia)
+  
+- Survey Type - Focus area of the survey (Health, Education, Shelter, etc.)
+  
+- Respondent ID - Unique identifier for each participant
+  
+- Gender - Male, Female, or Other
+
+- Age Group - Grouped age ranges (e.g., 18–24, 25–34, etc.)
+
+- Q1 - Access to basic health services
+
+- Q2 - Household food security
+
+- Q3 - Children’s ability to attend school safely
+
+- Q4 - Sense of safety in shelter
+
+- Q5 - Access to clean water
 
 ## Topical Questions
 #### Questions 🤔:
