@@ -115,7 +115,8 @@ regional weights.
 ## 💻 Dashboard 
 <a name="Dashboard"></a>
 
-![Dashboard Preview](./Dashboard Image/image.png)
+<img width="984" height="788" alt="Screenshot 2025-10-27 at 7 01 03 AM" src="https://github.com/user-attachments/assets/44ca91a9-e9c0-4cb3-8c5e-eb1bb63fd7ba" />
+
 
 
 
