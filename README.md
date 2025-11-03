@@ -110,6 +110,15 @@ regional weights.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- DASHBOARD -->
+
+## 💻 Dashboard 
+<a name="Dashboard"></a>
+
+![Dashboard Preview](./Dashboard Image/image.png)
+
+
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
