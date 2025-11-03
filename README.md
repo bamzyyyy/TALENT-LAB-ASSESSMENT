@@ -98,9 +98,9 @@ regional weights.
 
 ## Key Insights <a name="key-features"></a>
 
-- South Asia ranked highest (3.4), while East Africa (2.66) and Latin America (2.55) ranked lowest, showing uneven health service access across regions.
+- South Asia ranked highest (3.4), while West Africa (3.0) and Latin America (2.6) ranked lowest, showing uneven health service access across regions.
 
-- The Middle East showed the strongest food security (19.2% rating “5”), while West Africa was the most food-insecure (5.9%).
+- The Latin America showed the strongest food security (19.2% rating “5”), while West Africa was the most food-insecure (5.9%).
 
 - Health Access had the highest satisfaction (3.08), and Water & Sanitation scored lowest (2.76), indicating room for improvement in basic utilities.
 
